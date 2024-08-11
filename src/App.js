@@ -14,6 +14,11 @@ function App() {
         >
           We Add CI/CD
         </p>
+        <p
+          className="App-link"
+        >
+          We Add New Feature
+        </p>
       </header>
     </div>
   );
